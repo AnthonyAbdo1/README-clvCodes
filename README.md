@@ -11,7 +11,7 @@ With the task of changing the color of the button on hovor I first had to find i
 
 Changing the font style in the body involved looking for the body class in the CSS, and then adding the code "font-family:sanse-serif;"
 
-Steps six and seven both involved making a link that when clicked would take you to another page. The '<a href ="">' tag is used in this instance. You can copy and paste the link of the site you wish to go to within the perenthasis. 
+Steps six and seven both involved making a link that when clicked would take you to another page. The a href ="" tag is used in this instance. You can copy and paste the link of the site you wish to go to within the perenthasis. 
 
 When asked to change the border radius all that was needed was to go to the CSS style section and find the class of the button. Since it already had a border set for it all that was needed was to add the border-radius property and set it to in this case 20px.  
 
