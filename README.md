@@ -7,11 +7,11 @@ The next step was to alter the text of the placeholder in the textbox. Just like
 
 For the step involving adding a picture to the background I first considered having the image tagged as a background image but once I saw how the image looked like I changed the image to apear directly in the HTML code and not the CSS.
 
-With the task of changing the color of the button on hovor I first had to find it in the CSS style section of the document. The color was placed under the class name of the button inside of curly brackets in the <style> section inside the <head> section. To change the color all that was need to do was remove the text from between the colon and the semi-colon and replace it with another color name.
+With the task of changing the color of the button on hovor I first had to find it in the CSS style section of the document. The color was placed under the class name of the button inside of curly brackets in the "<style>" section inside the "<head>" section. To change the color all that was need to do was remove the text from between the colon and the semi-colon and replace it with another color name.
 
 Changing the font style in the body involved looking for the body class in the CSS, and then adding the code "font-family:sanse-serif;"
 
-Steps six and seven both involved making a link that when clicked would take you to another page. The <a href =""> tag is used in this instance. You can copy and paste the link of the site you wish to go to within the perenthasis. 
+Steps six and seven both involved making a link that when clicked would take you to another page. The '<a href ="">' tag is used in this instance. You can copy and paste the link of the site you wish to go to within the perenthasis. 
 
 When asked to change the border radius all that was needed was to go to the CSS style section and find the class of the button. Since it already had a border set for it all that was needed was to add the border-radius property and set it to in this case 20px.  
 
